@@ -1,0 +1,15 @@
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\bin\Debug\net6.0\Task0.exe
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\bin\Debug\net6.0\Task0.deps.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\bin\Debug\net6.0\Task0.runtimeconfig.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\bin\Debug\net6.0\Task0.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\bin\Debug\net6.0\Task0.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.csproj.AssemblyReference.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.AssemblyInfoInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.AssemblyInfo.cs
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.csproj.CoreCompileInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\refint\Task0.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\Task0.genruntimeconfig.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-01-14\seminars\Lesson1\Task0\obj\Debug\net6.0\ref\Task0.dll
